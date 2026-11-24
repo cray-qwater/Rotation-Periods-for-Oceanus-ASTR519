@@ -1,1 +1,0 @@
-# Rotation-Periods-for-Oceanus-ASTR519
