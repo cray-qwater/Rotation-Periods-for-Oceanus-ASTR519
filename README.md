@@ -6,4 +6,4 @@ Our project goal is to confirm whether the rotation periods of stars in the Ocea
 
   (i) measuring rotation periods for likely members using public time-domain surveys 
   
-  (ii) compare the period-color sequence against a reference cluster of similar age (e.g., Praesepe or Hyades)
+  (ii) comparing the period-color sequence against a reference cluster of similar age (e.g., Praesepe or Hyades)
